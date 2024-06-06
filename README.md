@@ -8,3 +8,7 @@
 
 <h2>3. รันโปรแกรมด้วยคำสั่ง</h2>
 <pre>python adobe.py</pre>
+
+<h2>4. รันเสร็จจะได้ไฟล์ Excel ชื่อ adobe.xlsx</h2>
+<pre>ไฟล์ผลลัพธ์ ชื่อ adobe.xlsx</pre>
+
