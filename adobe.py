@@ -91,7 +91,7 @@ for item in lis:
 
     c = c + 1
 
-
+driver.close()
 df = pd.DataFrame()
 df['Title'] = title_lis 
 df['Link'] = link_lis 
