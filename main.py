@@ -91,6 +91,7 @@ for item in lis[:totalx]:
         kw_lis.append("ไม่มี")
 
     c = c + 1
+driver.close()
 
 
 df = pd.DataFrame()
